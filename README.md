@@ -33,5 +33,5 @@ node || npm node ./src/bot.js
 
 # Credits
 
-Coded by [</Corwin>#0001](https://discord.com/users/755297485328482356)<br />
+Coded by [`</Corwin>#0001`](https://discord.com/users/755297485328482356)<br />
 Bug fix by [Luis Misaki#4165](https://discord.gg/Ds5CSrGfSW)<br />
