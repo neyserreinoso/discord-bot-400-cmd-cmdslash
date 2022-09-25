@@ -9,8 +9,8 @@ cd discord-bot-400-cmd
 ```
 # Data configuration
 1 | Go into ` ./src/config/bot.js ` and change the **BOT ID**<br />
-2 | Go into ` ./src/config/emojis.json ` and change the **EMOJIS ID**<br />
-3 | Go into ` ./src/config/webhooks.json ` and change the **WEBHOOKS ID**<br />
+2 | Go into ` ./src/config/emojis.json ` and change the **EMOJIS IDS**<br />
+3 | Go into ` ./src/config/webhooks.json ` and change the **WEBHOOKS IDS AND TOKENS**<br />
 4 | Go into **`.env.example`** and rename it to **`.env`** and put in your data<br />
 
 # Package installation
