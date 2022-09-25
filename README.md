@@ -18,7 +18,7 @@ cd discord-bot-400-cmd
 npm i --force || npm me
 ```
 
-# start the bot
+# Start the bot
 ```
 node || npm node ./src/bot.js
 ```
@@ -29,7 +29,7 @@ node || npm node ./src/bot.js
 
 # Version to Replit
 
-[Repeat](https://replit.com/@discord00/discordbot-400-cmd-slash)
+[Replit](https://replit.com/@discord00/discordbot-400-cmd-slash)
 
 # Credits
 
