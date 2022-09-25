@@ -1,11 +1,11 @@
 # Bot installation
 
 ```
-git clone https://github.com/Truchorko5566/discord-bot-400-cmd.git
+git clone https://github.com/Truchorko5566/discord-bot-400-cmd-cmdslash.git
 ```
 # Entering
 ```
-cd discord-bot-400-cmd
+cd discord-bot-400-cmd-cmdslash
 ```
 # Data configuration
 1 | Go into ` ./src/config/bot.js ` and change the **BOT ID**<br />
