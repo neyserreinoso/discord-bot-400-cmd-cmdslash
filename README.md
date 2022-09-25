@@ -8,10 +8,10 @@ git clone https://github.com/Truchorko5566/discord-bot-400-cmd.git
 cd discord-bot-400-cmd
 ```
 # Configuracion de datos
-1 | Entra a ./src/config/bot.js y cambia la **ID DEL BOT**
-2 | Entra a ./src/config/emojis.json y cambia la **ID DE EMOJIS**
-3 | Entra a ./src/config/webhooks.json y cambia la **ID DE WEBHOOKS**
-4 | Entra a **.env.example** y cambia su nombre a **.env** y coloca tus datos
+1 | Entra a ./src/config/bot.js y cambia la **ID DEL BOT**<br />
+2 | Entra a ./src/config/emojis.json y cambia la **ID DE EMOJIS**<br />
+3 | Entra a ./src/config/webhooks.json y cambia la **ID DE WEBHOOKS**<br />
+4 | Entra a **.env.example** y cambia su nombre a **.env** y coloca tus datos<br />
 
 # Instalacion de paquetes
 ```
